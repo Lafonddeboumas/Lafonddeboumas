@@ -1,10 +1,27 @@
-- 👋 Salut, je suis MACK 
-- Je suis intéressé par...l'informatique 
-- 🌱 J'apprends actuellementl’  . ..informatique 
-- 💞️ Je cherche à atteindre sur...
-- 📫 Commente moi joindre..
+# Développeur Full Stack Web et Mobile 🚀
 
-<!---
-Lafonddeboumas/Lafonddeboumas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Salut, je suis MACK LAFOND 👋, un développeur Full Stack spécialisé dans le développement web et mobile. Passionné par la création de solutions technologiques innovantes, je possède une solide expérience dans la conception, le développement et le déploiement d'applications.
+
+## Compétences 🛠️
+
+### Frontend
+- Langages : HTML, CSS, JavaScript
+- Frameworks : Angular, React, Flutter
+- Gestion de l'état : Redux, GetX
+- Conception adaptative et responsive design
+
+### Backend
+- Langages : Spring
+- Base de données : MongoDB, MySQL, PostgreSQL
+- API RESTful
+
+### Mobile
+- Frameworks : React Native, Flutter
+- Développement cross-platform
+- Optimisation des performances mobiles
+
+### Outils et Technologies
+- Contrôle de Version : Git
+- Bases de données : MongoDB, MySQL, Firebase
+- Déploiement : Heroku, Netlify, AWS
+- Tests Unitaires : Jest, Mocha
